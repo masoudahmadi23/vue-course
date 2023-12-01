@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "JavaScript",
+      "author": "JavaScript JavaScript JavaScript",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Veu.js",
+      "author": "typicode",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "title": "Nuxt.js",
+      "author": "typicode",
+      "complete": false
+    }
+  ]
+}
